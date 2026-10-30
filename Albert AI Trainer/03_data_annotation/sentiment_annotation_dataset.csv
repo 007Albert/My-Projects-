@@ -1,0 +1,101 @@
+id,text,label,label_rationale,source_note
+ANN-001,The delivery arrived early and everything was packed well.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-002,The support agent solved my problem quickly.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-003,This laptop is fast and easy to use.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-004,I enjoyed the lesson and understood the topic.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-005,"The app is simple, useful, and reliable.",Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-006,The food was fresh and tasted excellent.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-007,The instructions were clear and helpful.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-008,My refund was processed without any trouble.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-009,The new update fixed the issue I had.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-010,The staff were friendly and professional.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-011,The delivery arrived early and everything was packed well. I checked this after using the service.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-012,The support agent solved my problem quickly. This was mentioned in the user's feedback.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-013,This laptop is fast and easy to use. The comment was submitted this week.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-014,I enjoyed the lesson and understood the topic. The reviewer described their experience.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-015,"The app is simple, useful, and reliable. This statement appears in a sample review.",Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-016,The food was fresh and tasted excellent. I checked this after using the service.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-017,The instructions were clear and helpful. This was mentioned in the user's feedback.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-018,My refund was processed without any trouble. The comment was submitted this week.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-019,The new update fixed the issue I had. The reviewer described their experience.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-020,The staff were friendly and professional. This statement appears in a sample review.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-021,The delivery arrived early and everything was packed well. I checked this after using the service.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-022,The support agent solved my problem quickly. This was mentioned in the user's feedback.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-023,This laptop is fast and easy to use. The comment was submitted this week.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-024,I enjoyed the lesson and understood the topic. The reviewer described their experience.,Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-025,"The app is simple, useful, and reliable. This statement appears in a sample review.",Positive,Expresses satisfaction or a favorable evaluation.,Synthetic practice example
+ANN-026,The delivery arrived late and the package was damaged.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-027,The support agent ignored my question.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-028,This laptop freezes every few minutes.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-029,The lesson was confusing and poorly explained.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-030,The app crashes whenever I open it.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-031,The food was cold and tasted stale.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-032,The instructions were unclear and incomplete.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-033,My refund request was rejected without explanation.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-034,The new update made the problem worse.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-035,The staff were rude and unhelpful.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-036,The delivery arrived late and the package was damaged. I checked this after using the service.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-037,The support agent ignored my question. This was mentioned in the user's feedback.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-038,This laptop freezes every few minutes. The comment was submitted this week.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-039,The lesson was confusing and poorly explained. The reviewer described their experience.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-040,The app crashes whenever I open it. This statement appears in a sample review.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-041,The food was cold and tasted stale. I checked this after using the service.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-042,The instructions were unclear and incomplete. This was mentioned in the user's feedback.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-043,My refund request was rejected without explanation. The comment was submitted this week.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-044,The new update made the problem worse. The reviewer described their experience.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-045,The staff were rude and unhelpful. This statement appears in a sample review.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-046,The delivery arrived late and the package was damaged. I checked this after using the service.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-047,The support agent ignored my question. This was mentioned in the user's feedback.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-048,This laptop freezes every few minutes. The comment was submitted this week.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-049,The lesson was confusing and poorly explained. The reviewer described their experience.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-050,The app crashes whenever I open it. This statement appears in a sample review.,Negative,Expresses dissatisfaction or an unfavorable evaluation.,Synthetic practice example
+ANN-051,The delivery arrived on Tuesday afternoon.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-052,The support agent replied at 9 a.m.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-053,This laptop has a 14-inch screen.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-054,The lesson covers three topics.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-055,The app was released last month.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-056,The food menu lists six main dishes.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-057,The instructions contain five steps.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-058,My refund request is under review.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-059,The update was installed yesterday.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-060,The staff meeting starts at noon.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-061,The delivery arrived on Tuesday afternoon. I checked this after using the service.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-062,The support agent replied at 9 a.m. This was mentioned in the user's feedback.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-063,This laptop has a 14-inch screen. The comment was submitted this week.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-064,The lesson covers three topics. The reviewer described their experience.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-065,The app was released last month. This statement appears in a sample review.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-066,The food menu lists six main dishes. I checked this after using the service.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-067,The instructions contain five steps. This was mentioned in the user's feedback.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-068,My refund request is under review. The comment was submitted this week.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-069,The update was installed yesterday. The reviewer described their experience.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-070,The staff meeting starts at noon. This statement appears in a sample review.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-071,The delivery arrived on Tuesday afternoon. I checked this after using the service.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-072,The support agent replied at 9 a.m. This was mentioned in the user's feedback.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-073,This laptop has a 14-inch screen. The comment was submitted this week.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-074,The lesson covers three topics. The reviewer described their experience.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-075,The app was released last month. This statement appears in a sample review.,Neutral,Primarily states information without clear positive or negative sentiment.,Synthetic practice example
+ANN-076,"The delivery was late, but the package was intact.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-077,"The agent was polite, although the problem remains unsolved.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-078,The laptop is fast but its battery drains quickly.,Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-079,"The lesson was interesting, but some parts were confusing.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-080,"The app looks good, but it crashes often.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-081,"The food tasted great, although the service was slow.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-082,"The instructions were clear, but they left out one step.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-083,"The refund arrived, but it took three weeks.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-084,The update added useful features but introduced bugs.,Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-085,"The staff were friendly, but the wait was long.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-086,"The delivery was late, but the package was intact. I checked this after using the service.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-087,"The agent was polite, although the problem remains unsolved. This was mentioned in the user's feedback.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-088,The laptop is fast but its battery drains quickly. The comment was submitted this week.,Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-089,"The lesson was interesting, but some parts were confusing. The reviewer described their experience.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-090,"The app looks good, but it crashes often. This statement appears in a sample review.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-091,"The food tasted great, although the service was slow. I checked this after using the service.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-092,"The instructions were clear, but they left out one step. This was mentioned in the user's feedback.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-093,"The refund arrived, but it took three weeks. The comment was submitted this week.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-094,The update added useful features but introduced bugs. The reviewer described their experience.,Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-095,"The staff were friendly, but the wait was long. This statement appears in a sample review.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-096,"The delivery was late, but the package was intact. I checked this after using the service.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-097,"The agent was polite, although the problem remains unsolved. This was mentioned in the user's feedback.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-098,The laptop is fast but its battery drains quickly. The comment was submitted this week.,Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-099,"The lesson was interesting, but some parts were confusing. The reviewer described their experience.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
+ANN-100,"The app looks good, but it crashes often. This statement appears in a sample review.",Mixed,Contains both favorable and unfavorable sentiment.,Synthetic practice example
